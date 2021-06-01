@@ -1,0 +1,757 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 823,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4sqNDwAAQBAJ",
+      "etag": "Y36eI4SU2jM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4sqNDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Beautiful Cats",
+        "authors": [
+          "Darlene Arden",
+          "Nick Mays"
+        ],
+        "publisher": "Ivy Press",
+        "publishedDate": "2019-03-14",
+        "description": "Revered by the ancient Egyptians, beloved by the witches of Salem, and now celebrated in this delightful collection, the best-selling Beautiful... series brings you Beautiful Cats. Sashaying in front of our photographer’s lens are 40 of the world’s most remarkable and best-loved breeds, from the Bengal to the Birman, the Rex to the Ragamuffin. Posed to perfection, with not a whisker out of place, the stunning portraits of these show-quality felines will have you purring with pleasure. Each superb photograph is accompanied by a description of the breed, and a succinct introduction also charts the history of the cat, from animal of worship to prize-winning glamor puss. This is the perfect book for any cat lover to curl up with.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781782407607"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "178240760X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 112,
+        "printType": "BOOK",
+        "categories": [
+          "Pets"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4sqNDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4sqNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=4sqNDwAAQBAJ&pg=PT111&dq=cats&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.de/books?id=4sqNDwAAQBAJ&dq=cats&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beautiful_Cats.html?hl=&id=4sqNDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4sqNDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "All Breed Show A show open to all recognized breeds of pedigree \u003cb\u003ecat\u003c/b\u003e at which \u003cbr\u003e\nthe \u003cb\u003ecats\u003c/b\u003e will be judged against each other. Any Other Color (AOC) A class for \u003cb\u003ecats\u003c/b\u003e \u003cbr\u003e\nwith coat colors not previously covered in a show&#39;s schedule. Any Other Variety&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qebCDwAAQBAJ",
+      "etag": "ikBkZxAovy0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qebCDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Concerning Cats: My Own and Some Others",
+        "authors": [
+          "Helen M. Winslow"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2019-12-05",
+        "description": "\"Concerning Cats: My Own and Some Others\" by Helen M. Winslow. Published by Good Press. Good Press publishes a wide range of titles that encompasses every genre. From well-known classics & literary fiction and non-fiction to forgotten−or yet undiscovered gems−of world literature, we issue the books that need to be read. Each Good Press edition has been meticulously edited and formatted to boost readability for all e-readers and devices. Our goal is to produce eBooks that are user-friendly and accessible to everyone in a high-quality digital format.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:4064066245313"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qebCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qebCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=qebCDwAAQBAJ&pg=PT96&dq=cats&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qebCDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qebCDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.49,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 2.49,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qebCDwAAQBAJ&rdid=book-qebCDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2490000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qebCDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dog Club having affiliated with the Chicago \u003cb\u003eCat\u003c/b\u003e Club. The president of the \u003cbr\u003e\nChicago \u003cb\u003eCat\u003c/b\u003e Club is Mrs. Leland Norton, of the Drexel Kennels, at 4011 Drexel \u003cbr\u003e\nBoulevard, Chicago. The corresponding secretary is Mrs. Laura Daunty Pelham, \u003cbr\u003e\n315&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "clTaDwAAQBAJ",
+      "etag": "58JkxT36vm8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/clTaDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Pet Cats",
+        "subtitle": "What They Need",
+        "authors": [
+          "Rivet"
+        ],
+        "publisher": "Rivet",
+        "publishedDate": "2019-04-25",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PKEY:11yqrK7GTqICTEQqG3ZZv4fVvKLqkmqBhjk0ghEleJBc"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 18,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=clTaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=clTaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=clTaDwAAQBAJ&pg=PT1&dq=cats&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=clTaDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=clTaDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=clTaDwAAQBAJ&rdid=book-clTaDwAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=clTaDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "All rights reserved . Cover - https://pixabay.com/photos/kitten-cute-\u003cb\u003ecat\u003c/b\u003e-white-\u003cbr\u003e\ndomestic-1285341/ p . 2 - https://pixabay.com/photos/kids-baby-happiness-\u003cbr\u003e\nbeauty-1826978/ p . 3 - https://pixabay.com/photos/kitten-cute-\u003cb\u003ecat\u003c/b\u003e-animal-fur-pet-\u003cbr\u003e\n3081939/&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ecviLug4yzMC",
+      "etag": "EgEDDKCzOOg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ecviLug4yzMC",
+      "volumeInfo": {
+        "title": "Regulate the Transportation, Sale, and Handling of Dogs and Cats Used for Research and Experimentation",
+        "subtitle": "Hearings Before the Subcommittee on Livestock and Feed Grains of ..., 89-2 on H.R. 9743, H.R. 9750, H.R. 9869 ..., March 7 and 8, 1966",
+        "authors": [
+          "United States. Congress. House. Committee on Agriculture"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105119551997"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 229,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ecviLug4yzMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ecviLug4yzMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=ecviLug4yzMC&pg=PA119&dq=cats&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ecviLug4yzMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ecviLug4yzMC"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ecviLug4yzMC&rdid=book-ecviLug4yzMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.de/books/download/Regulate_the_Transportation_Sale_and_Han.epub?id=ecviLug4yzMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ecviLug4yzMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is both fitting and proper that this committee consider measures to protect the \u003cbr\u003e\nscientific community by licensure and supervision of dealers in dogs and \u003cb\u003ecats\u003c/b\u003e . \u003cbr\u003e\nSUGGESTED AMENDMENT OF H . R . 12488 To authorize the Secretary of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QVM2AQAAIAAJ",
+      "etag": "FLEyCITH1NA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QVM2AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Regulate the Transportation, Sale, and Handling of Dogs and Cats Used for Research and Experimentation",
+        "subtitle": "Hearing Before the Subcommittee on Livestock and Feed Grains ... Eighty-ninth Congress, Second Session, on H.R. 9743, H.R. 9750 ... March 7 and 8, 1966",
+        "authors": [
+          "United States. Congress. House. Committee on Agriculture. Subcommittee on Livestock and Grains"
+        ],
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B654392"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 229,
+        "printType": "BOOK",
+        "categories": [
+          "Animal welfare"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QVM2AQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QVM2AQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=QVM2AQAAIAAJ&pg=PA119&dq=cats&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QVM2AQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QVM2AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=QVM2AQAAIAAJ&rdid=book-QVM2AQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.de/books/download/Regulate_the_Transportation_Sale_and_Han.epub?id=QVM2AQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QVM2AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It is both fitting and proper that this committee consider measures to protect the \u003cbr\u003e\nscientific community by licensure and supervision of dealers in dogs and \u003cb\u003ecats\u003c/b\u003e . \u003cbr\u003e\nSUGGESTED AMENDMENT OF H . R . 12488 To authorize the Secretary of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pgMaAQAAMAAJ",
+      "etag": "5CMuQWRtzQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pgMaAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Concerning Cats",
+        "subtitle": "A Book of Poems by Many Authors",
+        "authors": [
+          "Rosamund Marriott Watson"
+        ],
+        "publishedDate": "1892",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89099242802"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 135,
+        "printType": "BOOK",
+        "categories": [
+          "Animals in literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pgMaAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pgMaAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=pgMaAQAAMAAJ&pg=PA89&dq=cats&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=pgMaAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=pgMaAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=pgMaAQAAMAAJ&rdid=book-pgMaAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.de/books/download/Concerning_Cats.epub?id=pgMaAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pgMaAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I Kilt er \u003cb\u003eCat\u003c/b\u003e . w DAR&#39;S AR&#39;S er shakin &#39; an &#39; er achin &#39; er ermongst dese ole bones , \u003cbr\u003e\nAnd I cries in de night wid de &#39; miseration moans , An &#39; I hears sumpin &#39; mawkin &#39; \u003cbr\u003e\nwid er solemn sorter groansI kilt er \u003cb\u003ecat\u003c/b\u003e ! I feels an &#39; I knows dat dar&#39;s sumpin&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gBe8eEgAeBQC",
+      "etag": "Ph2MZO7uSqA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gBe8eEgAeBQC",
+      "volumeInfo": {
+        "title": "Cats",
+        "authors": [
+          "Kathryn Hinds"
+        ],
+        "publisher": "Marshall Cavendish",
+        "publishedDate": "1998-09",
+        "description": "Explores the lore, different breeds, characteristics, and habits of these popular animals.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0761407944"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780761407942"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gBe8eEgAeBQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gBe8eEgAeBQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=gBe8eEgAeBQC&dq=cats&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.de/books?id=gBe8eEgAeBQC&dq=cats&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cats.html?hl=&id=gBe8eEgAeBQC"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gBe8eEgAeBQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Explores the lore, different breeds, characteristics, and habits of these popular animals."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oRQCAAAAQAAJ",
+      "etag": "4kkRhUV3bZk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oRQCAAAAQAAJ",
+      "volumeInfo": {
+        "title": "Only a cats' tale, by E.M.B.",
+        "authors": [
+          "E. M. B."
+        ],
+        "publishedDate": "1881",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OXFORD:600058544"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Cats"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oRQCAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oRQCAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=oRQCAAAAQAAJ&pg=PA58&dq=cats&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oRQCAAAAQAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oRQCAAAAQAAJ"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=oRQCAAAAQAAJ&rdid=book-oRQCAAAAQAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.de/books/download/Only_a_cats_tale_by_E_M_B.epub?id=oRQCAAAAQAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.de/books/download/Only_a_cats_tale_by_E_M_B.pdf?id=oRQCAAAAQAAJ&hl=&output=pdf&sig=ACfU3U1KZPG2hBk7xFGgOOlaJqnswAeYGA&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oRQCAAAAQAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "At the same moment a huge black retriever came bounding out ( and we all know \u003cbr\u003e\nwhat retrievers think of \u003cb\u003ecats\u003c/b\u003e ) . Admiral Grimm saved himself up a tree in the \u003cbr\u003e\ntwinkling of an eye , but Admiral Tibbs &#39; coat had received the greater part of the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1yBKAQAAMAAJ",
+      "etag": "qeOmq1Hu0SY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1yBKAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Diseases of Dogs & Cats",
+        "subtitle": "& Their Treatment",
+        "authors": [
+          "Veterinary Surgeon"
+        ],
+        "publishedDate": "1893",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IOWA:31858048105757"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Cats"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1yBKAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1yBKAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=1yBKAQAAMAAJ&pg=PA64&dq=cats&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1yBKAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1yBKAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=1yBKAQAAMAAJ&rdid=book-1yBKAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.de/books/download/Diseases_of_Dogs_Cats.epub?id=1yBKAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1yBKAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The teeth have not , as a rule , completed their full development till the dog is a \u003cbr\u003e\nyear old , but the \u003cb\u003ecat&#39;s\u003c/b\u003e are as perfect at nine months . Although cut in about the \u003cbr\u003e\nsame * Sometimes two pre - molar teeth in the lower jaw only are found , \u003cbr\u003e\nThesides&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RsaCcEXvE-IC",
+      "etag": "3592LcOx72M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RsaCcEXvE-IC",
+      "volumeInfo": {
+        "title": "Cats",
+        "publisher": "Sunstone Press",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781611391121"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1611391121"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RsaCcEXvE-IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RsaCcEXvE-IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=RsaCcEXvE-IC&printsec=frontcover&dq=cats&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RsaCcEXvE-IC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RsaCcEXvE-IC"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 17.29,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 17.29,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RsaCcEXvE-IC&rdid=book-RsaCcEXvE-IC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 17290000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 17290000,
+              "currencyCode": "EUR"
+            },
+            "giftable": true
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.de/books/download/Cats-sample-epub.acsm?id=RsaCcEXvE-IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.de/books/download/Cats-sample-pdf.acsm?id=RsaCcEXvE-IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RsaCcEXvE-IC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An inside look at cat habits and behavior with lively black and white drawings."
+      }
+    }
+  ]
+}
